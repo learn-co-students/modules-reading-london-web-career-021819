@@ -6,3 +6,5 @@ module MetaDancing
 
   end
 end
+
+# this file has been added to the FancyDance module
